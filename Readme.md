@@ -31,4 +31,5 @@ Create new repository.
 
 Push an current repository from command line:
 $ git remote add origin https://github.com/a76/erlapp.git
+$ git push -u origin master
 
