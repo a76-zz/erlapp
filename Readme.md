@@ -1,7 +1,7 @@
 Erlang web application prototype.
 =================================
 
-**Based on:** http://roberto-aloi.com/blog/2013/07/13/create-deploy-erlang-cowboy-application-heroku/#rebar)
+**Based on:** http://roberto-aloi.com/blog/2013/07/13/create-deploy-erlang-cowboy-application-heroku/#rebar
 
 Getting Started
 ---------------------------------
@@ -36,8 +36,10 @@ Getting Started
 
 ### Create remote repository ###
 
-	* Go to http://github, create account.
-	* Create new repository.
+	Go to http://github, create account.
+	[I have registered as a76]
+	Create new repository.
+	[I have created erlapp repository]
 
 ### Push an current repository from command line ###
 
