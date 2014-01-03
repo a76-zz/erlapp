@@ -16,6 +16,19 @@ $ cd erlapp
 $ cp ../rebar/rebar .
 $ ./rebar create-app appid=erlapp
 
-Commit what you have done in git:
+Add rebar and src dircory to git control
 $ git add rebar src
+
+Add this Readme.md to git control
+$ git add Readme.md
+
+Commit what you have done in git:
 $ git commit -m "Add rebar skeleton"
+
+* Create remote repository:
+Go to http://github, create account.
+Create new repository.
+
+Push an current repository from command line:
+$ git remote add origin https://github.com/a76/erlapp.git
+
